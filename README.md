@@ -116,7 +116,4 @@ bill-splitter/
 
 ---
 
-## Author
-
-[Your Name] — [Your Roll No] — AI / ML Basics Course
 
